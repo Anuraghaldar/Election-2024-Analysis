@@ -19,7 +19,7 @@ This project focuses on analyzing the data from the Election Result 2024 , aimin
  ## Project Structure
  The repository is organized as follows:
 
-- `Election_results_2024.csv`: Contains datasets used in the analysis.
+- [`Election_results_2024.csv`](https://github.com/Anuraghaldar/Election-2024-Analysis/blob/main/election_results_2024.csv): Contains datasets used in the analysis.
 
 - `Election_2024 PowerBI.pbix`: Power BI files for visualization.
 
